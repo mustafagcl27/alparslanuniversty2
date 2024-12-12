@@ -1,0 +1,43 @@
+
+
+public class okulodev2 {
+	public static void main(String[] args) {
+		//1 den 10 a kadar olan çift sayılara algoritma dersini
+		// tek sayılara seni seviyorum yazdırma
+		// for / while / do-while
+		
+//		for (int i=1;i<=10;i++) {
+//			if (i%2==0) {
+//				System.out.println("algoritma dersini");
+//			}else {
+//				System.out.println("çok seviyorum");
+//			}
+//	for	}
+		
+		
+//		int i =1;
+//		while (i<=10) {
+//			i++;
+//			if (i%2==0) {
+//				System.out.println("algoritma dersini");
+//			}else {
+//				System.out.println("çok seviyorum");
+//			}
+//			
+//	while	}
+		
+//		int i=1;
+//		do {
+//			i++;
+//			if (i%2==0) {
+//				System.out.println("algoritma dersini");
+//			}else {
+//				System.out.println("çok seviyorum");
+//			}
+//			
+//		} while (i<=10);
+//do-while		
+		
+	}
+
+}
